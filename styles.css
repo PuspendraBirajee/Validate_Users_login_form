@@ -1,0 +1,29 @@
+header{
+    width: 25%;
+    text-align: center;
+    background-color: black;
+    font-size: 0.5em;
+    font-family: arial;
+    font-weight: 50%;
+    line-height: 3;
+    margin-top: 18%;
+   color: rgb(24, 207, 91);
+   padding: 50px;
+}
+body {
+    width: 100%;
+    background-color: blanchedalmond;
+    
+} 
+button{
+    background-color: chocolate;
+    color: aqua;
+    line-height: 2;
+    cursor: pointer;
+}
+input{
+    background-color: rgb(236, 221, 13);
+    color: rgb(16, 57, 237);
+    line-height: 2.5;
+    font-weight: 20;
+}
